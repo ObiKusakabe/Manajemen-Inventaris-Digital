@@ -1,7 +1,7 @@
-##Manajemen Inventaris Digital
+# Manajemen Inventaris Digital
 Sistem Informasi Manajemen Inventaris dan Penjualan berbasis Web
 
-Techstack:
+## Techstack:
 - Laravel
 - Blade
 - Tailwindcss
